@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
 
 
-
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
 
 
 
