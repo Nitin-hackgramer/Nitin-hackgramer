@@ -1,4 +1,4 @@
-![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=pefCbH3C&id=8BEB8C7293E6A4DFDD067C5A29AA2910CF0A7043&thid=OIP.pefCbH3C5aRnuO7nVd90igHaCq&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0f%2F25%2Fe4%2F0f25e4668c1c7740b5ed41835339d67f.gif&exph=525&expw=1459&q=software+developer+banner+gif&simid=608045298583358644&FORM=IRPRST&ck=A85F43CC483D78FE26E97A1BD95DC3B0&selectedIndex=9&itb=0&cw=1375&ch=676&ajaxhist=0&ajaxserp=0)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
 ![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
