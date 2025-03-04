@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="96px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif">
+<img align="center" alt="Coding" width="1545.6px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
