@@ -6,7 +6,7 @@
 
 ![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
 
-
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
