@@ -46,3 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-hackgramer&show_icons=true&locale=en" alt="nitin-hackgramer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-hackgramer&" alt="nitin-hackgramer" /></p>
+![Dev](https://github.com/user-attachments/assets/5ea27e45-bb33-462a-a9fc-890ec3fe260f)
