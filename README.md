@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/nitinsh60345544" target="blank"><img src="https://img.shields.io/twitter/follow/nitinsh60345544?logo=twitter&style=for-the-badge" alt="nitinsh60345544" /></a> </p>
 
-- 🔭 I’m currently working on **Jarvis**
+- 🔭 I’m currently doing Computer Science Engineering
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Jarvis**
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab/)
 
 - 🤝 I’m looking for help with **Jarvis**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitin-sharma-a1a1a62ab/](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab/)
+- 👨‍💻 All of my projects are available at GitHub Itself
 
 - 💬 Ask me about **Python,C++,**
 
