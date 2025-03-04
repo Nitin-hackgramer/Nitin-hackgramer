@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif](https://l1nq.com/h25nX))
+![MasterHead]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif](https://l1nq.com/h25nX)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5OWQ0Zjg0NGhrMTMwdG8weTQ5M2E0ZTZ0OWc1NnUxcGU0cnRiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3X8uvbktBJMr2rI636/giphy.gif))
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
 
