@@ -1,6 +1,6 @@
 ![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNxYzYwMXhrcWNqdjIwajhjYTl0Nm1pN2E1aWluNHNxZHd2OXdybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1KuRvkKbZryg1h6lZ/giphy.gif)
 
-<div style="background-image:url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif"); background-size: cover; background-position: center; width: 100%; height: 100vh;"></div>
+<div style="background-image:url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif'); background-size: cover; background-position: center; width: 100%; height: 100vh;"></div>
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
