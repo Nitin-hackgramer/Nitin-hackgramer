@@ -1,5 +1,3 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif)
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvczExeG14NW1kZWRvaXpvaGtybDdxNWhja3JxeXNrcDU1bWQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif" style="width: 100%; height: auto;">
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
