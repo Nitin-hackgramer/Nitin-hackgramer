@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-<h3 align="center">Aspiring Software Developer | Python, JavaScript, SQl, C, C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
+<h3 align="center">Aspiring Software Developer | Python JavaScript SQl C C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 
