@@ -1,7 +1,13 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif](https://l1nq.com/h25nX)
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
+
+
+
 ![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMGZ4Y3RjZW9xbGY3ODY3ZXphN2lhYXozYzdidzU0NWpnNTk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-hackgramer" alt="nitin-hackgramer" /></a> </p>
