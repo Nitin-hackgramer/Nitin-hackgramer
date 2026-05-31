@@ -13,32 +13,18 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
         
-<h1>Hi 👋, I'm Nitin Sharma</h1>
-<h3>Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
+# Hi 👋, I'm Nitin Sharma</h1>
+## Full-Stack AI Engineer | Building AI-Powered Web Apps | React Django Python SQL | Agentic AI RAG | Hackathon Enthusiast | B.Tech CSE ’28
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-18-2563eb.svg?logo=github&variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India%2C_Delhi-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=slate)
-
-
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-18-2563eb.svg?logo=github&variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India%2C_Delhi-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=slate) 
 </div>
 
-
-
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
-- 🔭 I’m currently doing Computer Science Engineering
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab/)
-
-- 🤝 I’m looking for help with **Jarvis**
-
-- 👨‍💻 All of my projects are available at GitHub Itself
-
-- 💬 Ask me about **Python, C++, JavaScript**
-
-- 📫 How to reach me **nitinkumar12082005@gmail.com**
-
-- ⚡ Fun fact **Love Watching Anime**
+* 🔭 Currently doing Bachelor's in CSE.
+* 🌱 Learning Agentic AI by Project Building.
+* 🤝 I’m looking for help with **[Castly](https://github.com/nitin-hackgramer/castly)**.
+* 💬 Ask me about **Full Stack & AI** 
+* ⚡ **Love Anime & Marval**
 
 ---
 
@@ -107,7 +93,8 @@
 <a href="https://auth.geeksforgeeks.org/user/nitinkumar99vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinkumar99vp" height="30" width="40" /></a>
 </p>
 
-
+---
+## Git Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-hackgramer&" alt="nitin-hackgramer" /></p>  
 
