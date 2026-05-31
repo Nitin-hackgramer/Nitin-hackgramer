@@ -21,14 +21,14 @@
 
 ---
 
-## About me
-<img align="right" alt="Coding" width="280" margin-right="30" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
-
-* 🔭 Currently doing Bachelor's in CSE.
-* 🌱 Learning Agentic AI by Project Building.
-* 🤝 I’m looking for help with **[Castly](https://github.com/nitin-hackgramer/castly)**  
-* 💬 Ask me about **Full Stack & AI** 
-* ⚡ **Love Anime & Marval**
+> <img align="right" alt="Coding" width="300" margin-right="30" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
+> ## About me
+> 
+> * 🔭 Currently doing Bachelor's in CSE.
+> * 🌱 Learning Agentic AI by Project Building.
+> * 🤝 I’m looking for help with **[Castly](https://github.com/nitin-hackgramer/castly)**  
+> * 💬 Ask me about **Full Stack & AI** 
+> * ⚡ **Love Anime & Marval**
 
 ---
 
