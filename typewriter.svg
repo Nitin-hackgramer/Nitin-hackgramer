@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="56" viewBox="0 0 720 56">
+  <style>
+    .t { font: 28px monospace; fill:#0b1220; }
+    .cursor { font: 28px monospace; fill:#0b1220; }
+  </style>
+
+  <!-- background transparent; adjust width/height/font as needed -->
+  <text x="0" y="36" class="t">
+    Hi 👋, I'm
+  </text>
+
+  <!-- Phrase 1 -->
+  <text x="170" y="36" class="t">
+    <tspan id="p1">Nitin Sharma</tspan>
+    <animate attributeName="opacity" values="1;1;0;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <!-- Phrase 2 -->
+  <text x="170" y="36" class="t" opacity="0">
+    <tspan id="p2">Full Stack - AI Engineer</tspan>
+    <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <text x="170" y="36" class="cursor">
+    <tspan>|</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
