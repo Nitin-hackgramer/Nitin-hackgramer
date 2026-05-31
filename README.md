@@ -20,11 +20,15 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
-* 🔭 Currently doing Bachelor's in CSE.
-* 🌱 Learning Agentic AI by Project Building.
-* 🤝 I’m looking for help with **[Castly](https://github.com/nitin-hackgramer/castly)**.
-* 💬 Ask me about **Full Stack & AI** 
-* ⚡ **Love Anime & Marval**
+- 🔭 Currently doing Bachelor's in CSE.
+</br>
+- 🌱 Learning Agentic AI by Project Building.
+</br>
+- 🤝 I’m looking for help with **[Castly](https://github.com/nitin-hackgramer/castly)**.
+</br>
+- 💬 Ask me about **Full Stack & AI** 
+</br>
+- ⚡ **Love Anime & Marval**
 
 ---
 
