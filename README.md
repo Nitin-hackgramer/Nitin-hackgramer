@@ -17,7 +17,7 @@
 
 </pre>
 
-# Hi 👋, I'm Nitin Sharma
+# ![Hi👋, I'm Nitin](./typewriter.svg)
 ## Full-Stack AI Engineer | Building AI-Powered Web Apps | React · Django · Python · SQL | Agentic AI · RAG | Hackathon Enthusiast | B.Tech CSE '28
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers)
