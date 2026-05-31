@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗳️ VoidX — Secure E-Voting Platform</h3>
+      <h3>🗳️ [**Castly**](https://castly-sigma.vercel.app) — Secure E-Voting Platform [**repo**](https://github.com/nitin-hackgramer/castly)</h3>
       <p>A cryptographically secure voting system built for a government hackathon. Reached the <strong>finalist stage among ~1,400 teams</strong> at Bharat Mandapam, India.</p>
       <p>
         <strong>Key highlights:</strong><br>
@@ -71,15 +71,16 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Instagram DM Automation</h3>
-      <p>A full AI-powered DM automation system built for product-based businesses — handles customer queries, qualifies leads, and routes complex cases to a human agent.</p>
+      <h3>🤖 [**Friday**](https://github.com/nitin-hackgramer/IG_Agent_Friday) Instagram Agent </h3>
+      <p>A full AI-powered DM automation system built for Handling Instagram's DMs — handles customer queries, qualifies leads, and routes complex cases to a human agent.</p>
       <p>
         <strong>Key highlights:</strong><br>
-        • Built on <strong>n8n</strong> with Groq LLM for responses<br>
+        • Built on <strong>Langchain</strong> with Groq LLM for responses<br>
         • Meta Graph API + Webhook integration<br>
-        • 950-char chunking to handle Instagram's message limits<br>
-        • Human takeover via Switch node + Google Sheets blacklist<br>
-        • Deployed on Render via Docker + ngrok
+        • Persistent Memory (Supabase/Postgres)<br>
+        • Human takeover Flow: Send Takeover to Pause agent and Botback to Resume<br>
+        • Graceful background processing: Messages are processed in FastAPI BackgroundTasks
+        • Deployed on Render  
       </p>
       <p>
         <img src="https://shieldcn.dev/badge/n8n-EA4B71.svg?logo=n8n&logoColor=fff&variant=branded" alt="n8n">
