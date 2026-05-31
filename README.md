@@ -58,11 +58,7 @@
 
 
 ## 🛠️ Skills & Technologies
-* ### Frameworks
-<p>
-        
-![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded) ![Django](https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded) ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
-</p>
+* [### Frameworks] ![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded) ![Django](https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded) ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
 
 * ### Languages 
 <p>
