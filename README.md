@@ -58,12 +58,21 @@
 
 
 ## 🛠️ Skills & Technologies
-* **Frameworks**
+<table>
+  <tr>
+    <td valign="middle">
+      <h2>Frameworks</h2>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React">
+      <img src="https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded" alt="Django">
+      <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">
+    </td>
+  </tr>
+</table>
 
-  <p align="center">
-    <img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React"> <img src="https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded" alt="Django"> <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">
-  </p>
 
+*  **Frameworks** ![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded) ![Django](https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded) ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
 
 * ### Languages 
 <p>
