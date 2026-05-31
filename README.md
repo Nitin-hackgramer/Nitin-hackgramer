@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗳️ [**Castly**](https://castly-sigma.vercel.app) — Secure E-Voting Platform [**repo**](https://github.com/nitin-hackgramer/castly)</h3>
+    <h3>🗳️ <a href="https://castly-sigma.vercel.app"><strong>Castly</strong></a> — Secure E‑Voting Platform &nbsp; <a href="https://github.com/nitin-hackgramer/castly"><strong>repo</strong></a></h3>
       <p>A cryptographically secure voting system built for a government hackathon. Reached the <strong>finalist stage among ~1,400 teams</strong> at Bharat Mandapam, India.</p>
       <p>
         <strong>Key highlights:</strong><br>
@@ -71,7 +71,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 [**Friday**](https://github.com/nitin-hackgramer/IG_Agent_Friday) Instagram Agent </h3>
+      <h3>🤖 <a href="https://github.com/nitin-hackgramer/IG_Agent_Friday"><strong>Friday</strong></a> Instagram Agent </h3>
       <p>A full AI-powered DM automation system built for Handling Instagram's DMs — handles customer queries, qualifies leads, and routes complex cases to a human agent.</p>
       <p>
         <strong>Key highlights:</strong><br>
