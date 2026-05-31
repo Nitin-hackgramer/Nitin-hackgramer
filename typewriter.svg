@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="56" viewBox="0 0 720 56">
-  <style>
-    .t { font: 28px monospace; fill:#0b1220; }
-    .cursor { font: 28px monospace; fill:#0b1220; }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="56" viewBox="0 0 720 56" style="vertical-align:middle;">
+  <defs>
+    <clipPath id="clip1"><rect id="r1" x="0" y="0" width="0" height="56"></rect></clipPath>
+    <clipPath id="clip2"><rect id="r2" x="0" y="0" width="0" height="56"></rect></clipPath>
+  </defs>
 
-  <!-- background transparent; adjust width/height/font as needed -->
-  <text x="0" y="36" class="t">
-    Hi 👋, I'm
-  </text>
+  <!-- Static prefix -->
+  <text x="0" y="36" font-family="monospace" font-size="28" fill="#0b1226">Hi 👋, I'm</text>
 
-  <!-- Phrase 1 -->
-  <text x="170" y="36" class="t">
-    <tspan id="p1">Nitin Sharma</tspan>
-    <animate attributeName="opacity" values="1;1;0;0" dur="6s" repeatCount="indefinite" begin="0s"/>
-  </text>
+  <!-- Phrase 1 (revealed by clip1) -->
+  <g clip-path="url(#clip1)">
+    <text x="170" y="36" font-family="monospace" font-size="28" fill="#0b1226">Nitin Sharma</text>
+  </g>
 
-  <!-- Phrase 2 -->
-  <text x="170" y="36" class="t" opacity="0">
-    <tspan id="p2">Full Stack - AI Engineer</tspan>
-    <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite" begin="0s"/>
-  </text>
+  <!-- Phrase 2 (revealed by clip2) -->
+  <g clip-path="url(#clip2)">
+    <text x="170" y="36" font-family="monospace" font-size="28" fill="#0b1226">Full Stack - AI Engineer</text>
+  </g>
 
-  <!-- Blinking cursor -->
-  <text x="170" y="36" class="cursor">
-    <tspan>|</tspan>
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </text>
+  <!-- Blinking cursor (positioned after text) -->
+  <text id="cursor" x="170" y="36" font-family="monospace" font-size="28" fill="#0b1226">|</text>
+  <animate xlink:href="#cursor" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+
+  <!-- Animations: type phrase1, hold, erase, type phrase2, hold, erase, loop -->
+  <!-- Adjust 'to' widths if you change text or font-size -->
+  <animate xlink:href="#r1" attributeName="width" from="0" to="220" dur="1.8s" begin="0s" fill="freeze" />
+  <animate xlink:href="#r1" attributeName="width" from="220" to="220" dur="1.2s" begin="1.8s" fill="freeze" />
+  <animate xlink:href="#r1" attributeName="width" from="220" to="0" dur="0.6s" begin="3.0s" fill="freeze" />
+
+  <animate xlink:href="#r2" attributeName="width" from="0" to="420" dur="2.2s" begin="3.6s" fill="freeze" />
+  <animate xlink:href="#r2" attributeName="width" from="420" to="420" dur="1.2s" begin="5.8s" fill="freeze" />
+  <animate xlink:href="#r2" attributeName="width" from="420" to="0" dur="0.6s" begin="7.0s" fill="freeze" />
+
+  <!-- Loop controller: keep the SVG timeline running -->
+  <animate attributeName="opacity" from="1" to="1" dur="8s" begin="0s" repeatCount="indefinite"/>
 </svg>
