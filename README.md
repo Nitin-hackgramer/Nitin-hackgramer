@@ -80,7 +80,7 @@
         • Meta Graph API + Webhook integration<br>
         • Persistent Memory (Supabase/Postgres)<br>
         • Human takeover Flow: Send Takeover to Pause agent and Botback to Resume<br>
-        • Graceful background processing: Messages are processed in FastAPI BackgroundTasks
+        • Graceful background processing: Messages are processed in FastAPI BackgroundTasks<br>
         • Deployed on Render  
       </p>
       <p>
@@ -92,10 +92,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Castly <em>(In Progress)</em></h3>
-      <p>My current active build — details coming soon. Looking for contributors!</p>
+      <h3>📡 Industrial Insight </h3>
+      <p>A real-time factory monitoring system using FastAPI, React, and an ML model to predict the Remaining Useful Life (RUL) of engines</p>
       <p>
-        <a href="https://github.com/nitin-hackgramer/castly">
+        <strong>Key highlights:</strong><br>
+        • Built on <strong>Python</strong> with SK-learn for Model Training<br>
+        • Real-Time IOT Pipeline: Simulates Live Sensor data<br>
+        • AI Brain: Utilizes a Regression Model trained on the NASA CMAPSS dataset<br>
+        • Live Streaming Architecture: Implements SSE to push real-time health metrics from backend to dashboard without refresh<br>
+        • Dynamic Dashboard: A modern React interface providing live engine health status<br> 
+      </p>
+      <p>
+        <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance">
           <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
         </a>
       </p>
