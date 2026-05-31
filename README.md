@@ -43,18 +43,7 @@
 
 - ⚡ Fun fact **Love Watching Anime**
 
-## Connect with me 
-
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40nitin--hackgramer-181717.svg?logo=github&variant=branded&size=sm&theme=slate)](https://github.com/nitin-hackgramer) [![Twitter / X](https://www.shieldcn.dev/x/follow/nitinsh60345544.svg?variant=branded&size=sm&theme=slate)](https://twitter.com/nitinsh60345544) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40nitin--sharma--a1a1a62ab-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate)](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab)[![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/nitinkumar1208__)
-<p align="left">
-<a href="https://www.hackerrank.com/nitinkumar120821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinkumar120821" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitin-hackoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin-hackoder" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nitinkumar12082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nitinkumar12082005" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nitinkumar99vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinkumar99vp" height="30" width="40" /></a>
-</p>
-
-
-
+---
 
 ## 🛠️ Skills & Technologies
 <table>
@@ -110,6 +99,16 @@
   </tr>
 </table>
 
+---
+
+## Connect with me 
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40nitin--hackgramer-181717.svg?logo=github&variant=branded&size=sm&theme=slate)](https://github.com/nitin-hackgramer) [![Twitter / X](https://www.shieldcn.dev/x/follow/nitinsh60345544.svg?variant=branded&size=sm&theme=slate)](https://twitter.com/nitinsh60345544) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40nitin--sharma--a1a1a62ab-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate)](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab)[![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/nitinkumar1208__) <p align="left">
+<a href="https://www.hackerrank.com/nitinkumar120821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinkumar120821" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nitin-hackoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin-hackoder" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@nitinkumar12082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nitinkumar12082005" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nitinkumar99vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinkumar99vp" height="30" width="40" /></a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-hackgramer&" alt="nitin-hackgramer" /></p>  
 
