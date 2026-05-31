@@ -79,8 +79,8 @@
         • Built on <strong>Langchain</strong> with Groq LLM for responses<br>
         • Meta Graph API + Webhook integration<br>
         • Persistent Memory (Supabase/Postgres)<br>
-        • Human takeover Flow: Send Takeover to Pause agent and Botback to Resume<br>
-        • Graceful background processing: Messages are processed in FastAPI BackgroundTasks<br>
+        • Human takeover: Send Takeover to Pause agent and Botback to Resume<br>
+        • Graceful background processing: DMs processed in FastAPI BackgroundTasks<br>
         • Deployed on Render  
       </p>
       <p>
@@ -99,8 +99,8 @@
         • Built on <strong>Python</strong> with SK-learn for Model Training<br>
         • Real-Time IOT Pipeline: Simulates Live Sensor data<br>
         • AI Brain: Utilizes a Regression Model trained on the NASA CMAPSS dataset<br>
-        • Live Streaming Architecture: Implements SSE to push real-time health metrics from backend to dashboard without refresh<br>
-        • Dynamic Dashboard: A modern React interface providing live engine health status<br> 
+        • Live Streaming: Implements SSE to push real-time data from backend to dashboard<br>
+        • Dynamic Dashboard: Modern React interface providing live engine status<br> 
       </p>
       <p>
         <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance">
