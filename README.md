@@ -81,7 +81,6 @@
         • Persistent Memory (Supabase/Postgres)<br>
         • Human takeover: Send Takeover to Pause agent and Botback to Resume<br>
         • Graceful background processing: DMs processed in FastAPI BackgroundTasks<br>
-        • Deployed on Render  
       </p>
       <p>
         <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
@@ -95,8 +94,7 @@
       <h3>📡 Industrial Insight </h3>
       <p>A real-time factory monitoring system using FastAPI, React, and an ML model to predict the Remaining Useful Life (RUL) of engines</p>
       <p>
-        <strong>Key highlights:</strong><br>
-        • Built on <strong>Python</strong> with SK-learn for Model Training<br>
+        <strong>Key highlights:</strong><br> 
         • Real-Time IOT Pipeline: Simulates Live Sensor data<br>
         • AI Brain: Utilizes a Regression Model trained on the NASA CMAPSS dataset<br>
         • Live Streaming: Implements SSE to push real-time data from backend to dashboard<br>
@@ -105,6 +103,10 @@
       <p>
         <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance">
           <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
+        <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
+          <img src="https://shieldcn.dev/badge/scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=fff&variant=branded" alt="SK-learn">
+          <img src="https://shieldcn.dev/badge/NumPy-013243.svg?logo=numpy&logoColor=fff&variant=branded" alt="Numpy">
+          <img src="https://shieldcn.dev/badge/pandas-150458.svg?logo=pandas&logoColor=fff&variant=branded" alt="Pandas">
         </a>
       </p>
     </td>
