@@ -102,12 +102,12 @@
       </p>
       <p>
         <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance">
-          <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
-        <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
-          <img src="https://shieldcn.dev/badge/scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=fff&variant=branded" alt="SK-learn">
-          <img src="https://shieldcn.dev/badge/NumPy-013243.svg?logo=numpy&logoColor=fff&variant=branded" alt="Numpy">
           <img src="https://shieldcn.dev/badge/pandas-150458.svg?logo=pandas&logoColor=fff&variant=branded" alt="Pandas">
         </a>
+          <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
+          <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
+          <img src="https://shieldcn.dev/badge/scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=fff&variant=branded" alt="SK-learn">
+          <img src="https://shieldcn.dev/badge/NumPy-013243.svg?logo=numpy&logoColor=fff&variant=branded" alt="Numpy">
       </p>
     </td>
     <td width="50%" valign="top">
