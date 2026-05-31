@@ -19,7 +19,10 @@
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-18-2563eb.svg?logo=github&variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India%2C_Delhi-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=slate) 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
+---
+
+## About me
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
 
 * 🔭 Currently doing Bachelor's in CSE.
 * 🌱 Learning Agentic AI by Project Building.
