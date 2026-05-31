@@ -1,3 +1,4 @@
+<div align="center">
 <pre>
      _____                                                                      _____ 
     ( ___ )                                                                    ( ___ )
@@ -12,8 +13,8 @@
      |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
     (_____)                                                                    (_____)
 
- </pre>
-
+</pre>
+</div>
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
    
