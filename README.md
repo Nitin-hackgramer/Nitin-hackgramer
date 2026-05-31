@@ -22,9 +22,6 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nitinsh60345544" target="blank"><img src="https://img.shields.io/twitter/follow/nitinsh60345544?logo=twitter&style=for-the-badge" alt="nitinsh60345544" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
 - 🔭 I’m currently doing Computer Science Engineering
@@ -110,6 +107,8 @@
 <a href="https://auth.geeksforgeeks.org/user/nitinkumar99vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinkumar99vp" height="30" width="40" /></a>
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-hackgramer&" alt="nitin-hackgramer" /></p>  
 
 <p align="center">
