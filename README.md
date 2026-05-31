@@ -18,8 +18,6 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-hackgramer" alt="nitin-hackgramer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nitinsh60345544" target="blank"><img src="https://img.shields.io/twitter/follow/nitinsh60345544?logo=twitter&style=for-the-badge" alt="nitinsh60345544" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB0cmxqY2pkMWUwOGpieWdoMTNwaGdzMWJvd2dpZGltM3c1bjN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7xGNcTvT54UGxXWG/giphy.gif">
