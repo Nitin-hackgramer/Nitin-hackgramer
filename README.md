@@ -1,4 +1,18 @@
-<img align="center" alt="Coding" width="1545.6px"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk2Zmx6a25qcGUxaXVva3kxdnN0eDVxbnVtd2dpaWtiZXpmbGlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAMeb2jiv1kauB7GoC/giphy.gif">
+<pre>
+     _____                                                                      _____ 
+    ( ___ )                                                                    ( ___ )
+     |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+     |   |                                                                      |   | 
+     |   |     _   _________________   __  _____ __  _____    ____  __  ______  |   | 
+     |   |    / | / /  _/_  __/  _/ | / / / ___// / / /   |  / __ \/  |/  /   | |   | 
+     |   |   /  |/ // /  / /  / //  |/ /  \__ \/ /_/ / /| | / /_/ / /|_/ / /| | |   | 
+     |   |  / /|  // /  / / _/ // /|  /  ___/ / __  / ___ |/ _, _/ /  / / ___ | |   | 
+     |   | /_/ |_/___/ /_/ /___/_/ |_/  /____/_/ /_/_/  |_/_/ |_/_/  /_/_/  |_| |   | 
+     |   |                                                                      |   | 
+     |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+    (_____)                                                                    (_____)
+
+ </pre>
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
