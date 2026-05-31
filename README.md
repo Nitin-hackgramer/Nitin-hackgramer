@@ -58,31 +58,31 @@
 
 
 ## 🛠️ Skills & Technologies
-* Frameworks
+* #Frameworks
 <p>
         
 ![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded) ![Django](https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded) ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
 </p>
 
-* Languages 
+* #Languages 
 <p>
         
 ![Python](https://shieldcn.dev/badge/Python-3776AB.svg?logo=python&logoColor=fff&variant=branded&theme=emerald) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm&theme=slate) ![C++](https://shieldcn.dev/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=fff&variant=branded)
 </p>
 
-* AI/ML & Automation 
+* #AI/ML & Automation 
 <p>
         
 ![LangChain](https://shieldcn.dev/badge/LangChain-7FC8FF.svg?logo=langchain&logoColor=000&variant=secondary)
-* Database 
 </p>
 
+* #Database 
 <p>
         
 ![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded) ![MongoDB](https://shieldcn.dev/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=fff&variant=branded)
 </p>
 
-* Deployment 
+* #Deployment 
 <p>
         
 ![Vercel](https://shieldcn.dev/badge/Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded) ![Render](https://shieldcn.dev/badge/Hosted%20on-Render-000000.svg?logo=render&logoColor=fff&variant=branded)
