@@ -15,7 +15,13 @@
 </div>
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
-   
+
+
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40nitin--hackgramer-181717.svg?logo=github&variant=branded&size=sm&theme=slate)](https://github.com/nitin-hackgramer) [![Twitter / X](https://www.shieldcn.dev/x/follow/nitinsh60345544.svg?variant=branded&size=sm&theme=slate)](https://twitter.com/nitinsh60345544) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40nitin--sharma--a1a1a62ab-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate)](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-hackgramer&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-hackgramer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nitinsh60345544" target="blank"><img src="https://img.shields.io/twitter/follow/nitinsh60345544?logo=twitter&style=for-the-badge" alt="nitinsh60345544" /></a> </p>
