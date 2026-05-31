@@ -83,8 +83,8 @@
         • Deployed on Render  
       </p>
       <p>
-        <img src="https://shieldcn.dev/badge/n8n-EA4B71.svg?logo=n8n&logoColor=fff&variant=branded" alt="n8n">
-        <img src="https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=fff&variant=branded" alt="Docker">
+        <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
+        <img src="https://shieldcn.dev/badge/LangChain-7FC8FF.svg?logo=langchain&logoColor=000&variant=secondary" alt="LangChain">
         <img src="https://shieldcn.dev/badge/Meta_API-0082FB.svg?logo=meta&logoColor=fff&variant=branded" alt="Meta">
       </p>
     </td>
