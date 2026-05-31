@@ -16,8 +16,8 @@
 <img width="1189" height="217" alt="image" src="https://github.com/user-attachments/assets/6c320c95-d307-4fc5-9070-258c27ea7dd3" /> -->
 
 </pre>
-
-# ![Hi👋, I'm Nitin](./typewriter.svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=700&lines=Hi+👋,+I'm+Nitin+Sharma;Full+Stack+AI+Engineer" />
+<!-- # ![Hi👋, I'm Nitin](./typewriter.svg) -->
 ## Full-Stack AI Engineer | Building AI-Powered Web Apps | React · Django · Python · SQL | Agentic AI · RAG | Hackathon Enthusiast | B.Tech CSE '28
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers)
