@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-    <h3>🗳️ <a href="https://castly-sigma.vercel.app"><strong>Castly</strong></a> — Secure E‑Voting Platform &nbsp; <a href="https://github.com/nitin-hackgramer/castly"><strong>repo</strong></a></h3>
+    <h3>🗳️ <a href="https://castly-sigma.vercel.app"><strong>Castly</strong></a> — Secure E‑Voting Platform</h3>
       <p>A cryptographically secure voting system built for a government hackathon. Reached the <strong>finalist stage among ~1,400 teams</strong> at Bharat Mandapam, India.</p>
       <p>
         <strong>Key highlights:</strong><br>
@@ -63,8 +63,9 @@
         • Simulated Aadhaar/DigiLocker OTP verification<br>
         • JWT session tokens + append-only vote storage<br>
         • Full React frontend + Django REST backend (7 endpoints)
-      </p>
+      </p> 
       <p>
+          <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
         <img src="https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded" alt="Django">
         <img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React">
         <img src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded" alt="PostgreSQL">
