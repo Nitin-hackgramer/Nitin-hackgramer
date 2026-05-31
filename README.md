@@ -65,7 +65,7 @@
         • Full React frontend + Django REST backend (7 endpoints)
       </p> 
       <p>
-          <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
+        <a href="https://github.com/nitin-hackgramer/castly"><img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub"></a>
         <img src="https://shieldcn.dev/badge/Django-092E20.svg?logo=django&logoColor=fff&variant=branded" alt="Django">
         <img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React">
         <img src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded" alt="PostgreSQL">
@@ -101,9 +101,7 @@
         • Dynamic Dashboard: Modern React interface providing live engine status<br> 
       </p>
       <p>
-        <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance">
-          <img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub">
-        </a>
+          <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance"><img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub"></a>
           <img src="https://shieldcn.dev/badge/pandas-150458.svg?logo=pandas&logoColor=fff&variant=branded" alt="Pandas">
           <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
           <img src="https://shieldcn.dev/badge/scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=fff&variant=branded" alt="SK-learn">
