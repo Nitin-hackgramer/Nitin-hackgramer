@@ -111,11 +111,8 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-hackgramer&show_icons=true&locale=en&layout=compact" alt="nitin-hackgramer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-hackgramer&show_icons=true&locale=en" alt="nitin-hackgramer" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-hackgramer&" alt="nitin-hackgramer" /></p>  
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
