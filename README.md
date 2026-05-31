@@ -15,12 +15,17 @@
 </div>
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Python  JavaScript  SQL  C  C++ | B.Tech Computer Science Student Seeking Coding Internship</h3>
+
 <div align="center">
+        
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-18-2563eb.svg?logo=github&variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India%2C_Delhi-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=slate)
+
 </div>
 
 <div align="center">
+        
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40nitin--hackgramer-181717.svg?logo=github&variant=branded&size=sm&theme=slate)](https://github.com/nitin-hackgramer) [![Twitter / X](https://www.shieldcn.dev/x/follow/nitinsh60345544.svg?variant=branded&size=sm&theme=slate)](https://twitter.com/nitinsh60345544) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40nitin--sharma--a1a1a62ab-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate)](https://www.linkedin.com/in/nitin-sharma-a1a1a62ab)
+
 </div>
 
 
