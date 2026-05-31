@@ -171,10 +171,10 @@
 
 ## 🏆 Achievements & Highlights
 
-- 🥈 &nbsp; **Hackathon Finalist** — Bharat Mandapam Government Hackathon (Top teams / ~1,400 competing teams)
-- 🤝 &nbsp; **Freelance AI Automation** — Built and delivered Instagram DM automation products for real clients
+- 🥈 &nbsp; **Hackathon** — Finalist India Innovates '26 at Bharat Mandapam, Among Top 10 in PySpark by Compunnel.Inc, Top 15 HackSpire at IPEC
+- 🤝 &nbsp; **Freelance** — Built and delivered Web & AI Services for real clients
 - 📦 &nbsp; **18+ Public Repositories** — Spanning full-stack apps, AI tooling, and automation workflows
-- 🌱 &nbsp; **Self-taught Agentic AI** — Learned by building production systems, not just coursework
+- 🌱 &nbsp; **Self-taught Full-Stack & AI** — Learned by building production systems, not just coursework
 
 ---
 
