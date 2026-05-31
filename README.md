@@ -83,6 +83,7 @@
         • Graceful background processing: DMs processed in FastAPI BackgroundTasks<br>
       </p>
       <p>
+        <a href="https://github.com/nitin-hackgramer/IG_Agent_Friday"><img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub"></a> 
         <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
         <img src="https://shieldcn.dev/badge/LangChain-7FC8FF.svg?logo=langchain&logoColor=000&variant=secondary" alt="LangChain">
         <img src="https://shieldcn.dev/badge/Meta_API-0082FB.svg?logo=meta&logoColor=fff&variant=branded" alt="Meta">
@@ -91,7 +92,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Industrial Insight </h3>
+      <h3>📡 <a href="https://github.com/nitin-hackgramer/Predictive-Machines-Maintenance"><strong>Industrial Insight</strong></a></h3>
       <p>A real-time factory monitoring system using FastAPI, React, and an ML model to predict the Remaining Useful Life (RUL) of engines</p>
       <p>
         <strong>Key highlights:</strong><br> 
