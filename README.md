@@ -115,10 +115,10 @@
       <p>
         <strong>Key highlights:</strong><br>
         • Auto Detect LLM Platform (Claude, GPT, Gemini, Grok etc)<br>
-        • Auto-selects the right model (Sonnet 4.6, GPT-4o, Gemini 2.5 Pro, etc.)<br>
+        • Auto-select right model (Sonnet 4.6, GPT-4o, Gemini 2.5 Pro, etc)<br>
         • Reads your typed prompt directly from the page<br>
         • Enhances it using model-specific prompt engineering techniques<br>
-        • Shows the enhanced version — copy it or apply it directly to the input box<br>
+        • Shows enhanced version copy it or apply it directly to the input box<br>
         • Automatically replaces the old prompt with new one on Apply<br> 
       </p>
       <p>
