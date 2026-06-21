@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nitin+Sharma;Full+Stack+AI+Engineer" />
 </p>
 
-## Full-Stack AI Engineer | Building AI-Powered Web Apps | React · Django · Python · SQL | Agentic AI · RAG | Hackathon Enthusiast | B.Tech CSE '28
+## Full-Stack AI Engineer | Software Engineer Intern @AcdyOn | React · Django · Python · SQL | Agentic AI · RAG | Hackathon Enthusiast | B.Tech CSE '28
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=followers)
 [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/nitin-hackgramer.svg?variant=secondary&size=sm&theme=slate)](https://github.com/nitin-hackgramer?tab=repositories)
@@ -115,10 +115,10 @@
       <p>
         <strong>Key highlights:</strong><br>
         • Auto Detect LLM Platform (Claude, GPT, Gemini, Grok etc)<br>
-        • Auto-select right model (Sonnet 4.6, GPT-4o, Gemini 2.5 Pro, etc)<br>
+        • Auto-select models (Sonnet 4.6, GPT-4o, Gemini 2.5 Pro, etc)<br>
         • Reads your typed prompt directly from the page<br>
-        • Enhances it using model-specific prompt engineering techniques<br>
-        • Shows enhanced version copy it or apply it directly to the input box<br>
+        • Enhance using model-specific prompt engineering techniques<br>
+        • Shows enhanced version; copy it or apply directly to input box<br>
         • Automatically replaces the old prompt with new one on Apply<br> 
       </p>
       <p>
