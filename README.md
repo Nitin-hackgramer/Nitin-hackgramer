@@ -76,11 +76,11 @@
       <p>A full AI-powered DM automation system built for Handling Instagram's DMs — handles customer queries, qualifies leads, and routes complex cases to a human agent.</p>
       <p>
         <strong>Key highlights:</strong><br>
-        • Built on <strong>Langchain</strong> with Groq LLM for responses<br>
+        • Built on <strong>Langchain</strong> & Groq for responses<br>
         • Meta Graph API + Webhook integration<br>
         • Persistent Memory (Supabase/Postgres)<br>
-        • Human takeover: Send Takeover to Pause agent and Botback to Resume<br>
-        • Graceful background processing: DMs processed in FastAPI BackgroundTasks<br>
+        • Human takeover: Send Takeover/Botback to Pause/Resume Agent<br>
+        • Background processing: DMs processed in FastAPI BackgroundTasks<br>
       </p>
       <p>
         <a href="https://github.com/nitin-hackgramer/IG_Agent_Friday"><img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub"></a> 
