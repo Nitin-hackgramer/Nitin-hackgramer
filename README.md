@@ -109,6 +109,27 @@
           <img src="https://shieldcn.dev/badge/NumPy-013243.svg?logo=numpy&logoColor=fff&variant=branded" alt="Numpy">
       </p>
     </td>
+        <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/nitin-hackgramer/PromptDitch"><strong>Prompt Ditch</strong></a> Prompt Enhancer Extension </h3>
+      <p>PromptDitch converts informal prompts into model-optimized prompts in seconds via a backend and an browser extension popup.</p>
+      <p>
+        <strong>Key highlights:</strong><br>
+        • Auto Detect LLM Platform (Claude, GPT, Gemini, Grok etc)<br>
+        • Auto-selects the right model (Sonnet 4.6, GPT-4o, Gemini 2.5 Pro, etc.)<br>
+        • Reads your typed prompt directly from the page<br>
+        • Enhances it using model-specific prompt engineering techniques<br>
+        • Shows the enhanced version — copy it or apply it directly to the input box<br>
+        • Automatically replaces the old prompt with new one on Apply<br> 
+      </p>
+      <p>
+        <a href="https://github.com/nitin-hackgramer/PromptDitch"><img src="https://shieldcn.dev/badge/View_on-GitHub-181717.svg?logo=github&variant=branded" alt="GitHub"></a> 
+        <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded" alt="FastAPI">  
+        <img src="https://shieldcn.dev/badge/LangChain-7FC8FF.svg?logo=langchain&logoColor=000&variant=secondary" alt="LangChain">
+        <img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React">
+        </p>
+    </td>
+  </tr>
+  <tr> 
     <td width="50%" valign="top">
       <h3>🧠 More coming...</h3>
       <p>Always prototyping. Next up: RAG-powered tools, more automation products, and things I'll probably build at the next hackathon.</p>
